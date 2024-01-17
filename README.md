@@ -1,2 +1,2 @@
-# Analysis of Factors Influencing Unemployment in D.I. Yogyakarta
+# Analysis of Factors Influencing Unemployment in D.I. Yogyakarta Using Panel Data Regression Analysis
 This portfolio presents an in-depth analysis of factors affecting unemployment levels in Kabupaten/Kota, D.I. Yogyakarta. The study aims to provide an overview of minimum wage, Human Development Index (HDI), average years of schooling, and unemployment rates across all districts and cities in the province. Utilizing secondary data obtained from BPS publications spanning from 2017 to 2021, the research explores whether there is a significant influence of minimum wage, HDI, and average years of schooling on unemployment rates. 
